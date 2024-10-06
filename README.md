@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LydeanCollins
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript and C#
+- 🌱 I’m currently studying JavaScript and C#
 - 📫 You can reach me by sending me an email at lydeanleecollins@outlook.com
 
 <!---
