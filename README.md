@@ -1,10 +1,10 @@
 👋 Hi, I’m Lydean Lee Collins  
-💻 I am an Aspiring Software Developer | Passionate about Programming  
+💻 I am an Aspiring Software Developer  
 🎓 Currently studying Software Development at MCAST (Starting my Bachelors degree)  
-🔧 Learning Java, Python, C#, C++, Web Development (HTML/CSS/JS), Mobile Development(React, TypeScript), and exploring databases  
-📁 You can see my portfolio: [Portfolio](https://lydeancollins.github.io/Portfolio/)  
-📬 You can reach me at lydeanleecollins@outlook.com       
-🔗 LinkedIn: Lydean Lee Collins (currently down but free to email me!)
+🔧 Studying Java, Python, C#, C++, SQL, PHP, Web Development (HTML/CSS/JS) and Mobile Development (React/TypeScript)  
+📁 You can view my portfolio here: [Portfolio](https://lydeancollins.github.io/Portfolio/)  
+📬 You can email me at lydeanleecollins@outlook.com   
+🔗 You can also reach me at LinkedIn: Lydean Lee Collins (currently LinkedIn not available)
 
 
 <!---
