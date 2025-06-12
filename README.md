@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @LydeanCollins
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently studying JavaScript and C#
+👋 Hi, I’m Lydean Lee Collins
+💻 I am an Aspiring Software Developer | Passionate about Programming
+🎓 Currently studying Software Development at MCAST (Starting my Bachelors degree)
+🔧 Learning Java, Python, C#, C++, Web Development (HTML/CSS/JS), Mobile Development(React, TypeScript), and exploring databases
+📁 You can see my portfolio: [Portfolio](https://lydeancollins.github.io/Portfolio/)
+📬 You can reach me at lydeanleecollins@outlook.com       
+🔗 LinkedIn: Lydean Lee Collins (currently down but free to email me!)
 
 
 <!---
