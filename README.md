@@ -4,7 +4,7 @@
 🔧 Studying Java, Python, C#, C++, SQL, PHP, Web Development (HTML/CSS/JS) and Mobile Development (React/TypeScript)  
 📁 You can view my portfolio here: [Portfolio](https://lydeancollins.github.io/Portfolio/)  
 📬 You can email me at lydeanleecollins@outlook.com   
-🔗 You can also reach me at LinkedIn: Lydean Lee Collins (currently LinkedIn not available)
+🔗 You can also reach me at LinkedIn: [Lydean Lee Collins](www.linkedin.com/in/LydeanLeeCollins)
 
 
 <!---
