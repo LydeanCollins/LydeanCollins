@@ -4,7 +4,7 @@
 🔧 Studying:  
 • Back-End: Java | Python | C# | C++ | SQL | PHP  
 • Front-End: HTML | CSS | JavaScript | TypeScript | React  
-• Discrete Math: Propositional Logic | Equivalences | Inference Rules | Predicate Logic
+• Discrete Math: Propositional Logic | Equivalences | Inference Rules | Predicate Logic  
 📁 You can view my portfolio here: [Portfolio](https://lydeancollins.github.io/Portfolio/)  
 📬 You can email me at lydeanleecollins@outlook.com   
 🔗 You can also reach me at LinkedIn: [Lydean Lee Collins](https://www.linkedin.com/in/LydeanLeeCollins)
