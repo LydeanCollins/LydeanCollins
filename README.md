@@ -3,6 +3,9 @@ My name is Lydean Lee Collins, I am a hard working Software Development student 
 
 During my studies I have significantly improved my logical thinking and my problem solving abilities, especially in areas of software design, development, and implementation. As a result of these studies, I noticed being more productive allowing me to be more efficient in my development.  
 
+## Experience ##  
+Software Developer Apprentice | MITA (CIS Department)
+
 ## Languages & Technologies Studied ##  
 • Back-End: Java | Python | C# | SQL | PHP | Lua  
 • Front-End: HTML | CSS | JavaScript | TypeScript | React  
@@ -14,7 +17,8 @@ During my studies I have significantly improved my logical thinking and my probl
 Additionally, I have had a great interest in computers starting from a very young age. Growing up, I have always been fascinated by computers, particularly how they work whether software or hardware. Due to this, I engaged in IT classes to perfect my skills, enjoyed assisting others with their technical issues, and continuous research as to stay up-to-date with the latest developments.  
 
 ## Contact Me ##  
-You can reach me at LinkedIn: [Lydean Lee Collins](https://www.linkedin.com/in/LydeanLeeCollins)
+LinkedIn: [Lydean Lee Collins](https://www.linkedin.com/in/LydeanLeeCollins)
+Email: [lydeanleecollins@outlook.com](lydeanleecollins@outlook.com)
 
 <!--
 **LydeanCollins/LydeanCollins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
