@@ -17,7 +17,7 @@ Software Developer Apprentice | MITA (CIS Department)
 Additionally, I have had a great interest in computers starting from a very young age. Growing up, I have always been fascinated by computers, particularly how they work whether software or hardware. Due to this, I engaged in IT classes to perfect my skills, enjoyed assisting others with their technical issues, and continuous research as to stay up-to-date with the latest developments.  
 
 ## Contact Me ##  
-LinkedIn: [Lydean Lee Collins](https://www.linkedin.com/in/LydeanLeeCollins)
+LinkedIn: [Lydean Lee Collins](https://www.linkedin.com/in/LydeanLeeCollins)   
 Email: [lydeanleecollins@outlook.com](lydeanleecollins@outlook.com)
 
 <!--
