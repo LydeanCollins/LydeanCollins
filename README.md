@@ -1,8 +1,3 @@
-## About Me ##  
-My name is Lydean Lee Collins, I am a hard working Software Development student that strives to learn more about computer systems and development.  
-
-During my studies I have significantly improved my logical thinking and my problem solving abilities, especially in areas of software design, development, and implementation. As a result of these studies, I noticed being more productive allowing me to be more efficient in my development.  
-
 ## Experience ##  
 Software Developer Apprentice | MITA (CIS Department)
 
@@ -13,9 +8,6 @@ Software Developer Apprentice | MITA (CIS Department)
 • Development Tools: Git | GitHub | Maven | Linux  
 • Testing & QA: JUnit | Cucumber | Gherkin  
 • Platforms & Systems: Raspberry Pi | Unity | Roblox Studio | Embedded Systems  
-
-## Hobbies & Interests ##  
-Additionally, I have had a great interest in computers starting from a very young age. Growing up, I have always been fascinated by computers, particularly how they work whether software or hardware. Due to this, I engaged in IT classes to perfect my skills, enjoyed assisting others with their technical issues, and continuous research as to stay up-to-date with the latest developments.  
 
 ## Contact Me ##  
 LinkedIn: [Lydean Lee Collins](https://www.linkedin.com/in/LydeanLeeCollins)   
